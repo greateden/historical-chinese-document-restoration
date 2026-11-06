@@ -1,0 +1,54 @@
+n01000  control:  removed=0.133 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01000    v3+v4:  removed=0.515 pres=0.9988 dmg=   792 pres_i=0.5393 0.1s
+n01000   v34+g5:  removed=0.515 pres=0.9988 dmg=   792 pres_i=0.5393 0.2s
+n01000    v3+g5:  removed=0.339 pres=0.9988 dmg=   792 pres_i=0.5393 0.2s
+n01001  control:  removed=0.156 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01001    v3+v4:  removed=0.405 pres=1.0000 dmg=     0 pres_i=1.0000 0.1s
+n01001   v34+g5:  removed=0.405 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01001    v3+g5:  removed=0.398 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01002* control:  removed=0.067 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01002*   v3+v4:  removed=0.304 pres=0.9500 dmg= 48904 pres_i=0.8776 0.2s
+n01002*  v34+g5:  removed=0.304 pres=0.9500 dmg= 48904 pres_i=0.8776 0.5s
+n01002*   v3+g5:  removed=0.293 pres=0.9500 dmg= 48904 pres_i=0.8776 0.5s
+n01003  control:  removed=0.120 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01003    v3+v4:  removed=0.504 pres=0.9987 dmg=   770 pres_i=0.8828 0.1s
+n01003   v34+g5:  removed=0.504 pres=0.9973 dmg=  1646 pres_i=0.8828 0.3s
+n01003    v3+g5:  removed=0.492 pres=0.9973 dmg=  1646 pres_i=0.8828 0.3s
+n01004  control:  removed=0.090 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01004    v3+v4:  removed=0.375 pres=0.9992 dmg=   421 pres_i=0.8753 0.1s
+n01004   v34+g5:  removed=0.375 pres=0.9992 dmg=   421 pres_i=0.8753 0.4s
+n01004    v3+g5:  removed=0.365 pres=0.9992 dmg=   421 pres_i=0.8753 0.4s
+n01005* control:  removed=0.171 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01005*   v3+v4:  removed=0.258 pres=1.0000 dmg=     0 pres_i=1.0000 0.1s
+n01005*  v34+g5:  removed=0.258 pres=1.0000 dmg=     0 pres_i=1.0000 0.3s
+n01005*   v3+g5:  removed=0.252 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01006  control:  removed=0.163 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01006    v3+v4:  removed=0.344 pres=1.0000 dmg=     0 pres_i=1.0000 0.1s
+n01006   v34+g5:  removed=0.373 pres=1.0000 dmg=     0 pres_i=1.0000 0.3s
+n01006    v3+g5:  removed=0.367 pres=1.0000 dmg=     0 pres_i=1.0000 0.3s
+n01007  control:  removed=0.150 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01007    v3+v4:  removed=0.546 pres=1.0000 dmg=     0 pres_i=1.0000 0.1s
+n01007   v34+g5:  removed=0.546 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01007    v3+g5:  removed=0.471 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01008* control:  removed=0.096 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01008*   v3+v4:  removed=0.197 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01008*  v34+g5:  removed=0.197 pres=1.0000 dmg=     0 pres_i=1.0000 0.7s
+n01008*   v3+g5:  removed=0.188 pres=1.0000 dmg=     0 pres_i=1.0000 0.6s
+n01009  control:  removed=0.133 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01009    v3+v4:  removed=0.540 pres=1.0000 dmg=     0 pres_i=1.0000 0.1s
+n01009   v34+g5:  removed=0.540 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01009    v3+g5:  removed=0.532 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01010  control:  removed=0.161 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01010    v3+v4:  removed=0.507 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01010   v34+g5:  removed=0.507 pres=1.0000 dmg=     0 pres_i=1.0000 0.3s
+n01010    v3+g5:  removed=0.487 pres=1.0000 dmg=     0 pres_i=1.0000 0.2s
+n01011* control:  removed=0.057 pres=1.0000 dmg=     0 pres_i=1.0000 0.0s
+n01011*   v3+v4:  removed=0.317 pres=0.9868 dmg= 11701 pres_i=0.8252 0.1s
+n01011*  v34+g5:  removed=0.317 pres=0.9868 dmg= 11701 pres_i=0.8252 1.0s
+n01011*   v3+g5:  removed=0.305 pres=0.9868 dmg= 11701 pres_i=0.8252 1.0s
+
+== means ==
+  control: removed=0.1248 pres=1.0000 dmg=0 pres_i=1.0000
+    v3+v4: removed=0.4008 pres=0.9945 dmg=5215 pres_i=0.9167
+   v34+g5: removed=0.4032 pres=0.9943 dmg=5288 pres_i=0.9167
+    v3+g5: removed=0.3739 pres=0.9943 dmg=5288 pres_i=0.9167

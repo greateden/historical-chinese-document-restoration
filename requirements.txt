@@ -1,0 +1,3 @@
+# Deterministic restoration path; versions measured in the existing environment.
+numpy==2.5.4
+opencv-python-headless==5.0.0.93

@@ -1,0 +1,26 @@
+n01000 v3+v4: true_sites=1 flags=38 tp=1 fn=0 fp=37
+n01000 v34+g5: true_sites=1 flags=38 tp=1 fn=0 fp=37
+n01001 v3+v4: true_sites=0 flags=30 tp=0 fn=0 fp=30
+n01001 v34+g5: true_sites=0 flags=30 tp=0 fn=0 fp=30
+n01002 v3+v4: true_sites=4 flags=19 tp=4 fn=0 fp=16
+n01002 v34+g5: true_sites=4 flags=19 tp=4 fn=0 fp=16
+n01003 v3+v4: true_sites=1 flags=32 tp=1 fn=0 fp=31
+n01003 v34+g5: true_sites=2 flags=33 tp=2 fn=0 fp=31
+n01004 v3+v4: true_sites=1 flags=15 tp=1 fn=0 fp=14
+n01004 v34+g5: true_sites=1 flags=15 tp=1 fn=0 fp=14
+n01005 v3+v4: true_sites=0 flags=11 tp=0 fn=0 fp=11
+n01005 v34+g5: true_sites=0 flags=11 tp=0 fn=0 fp=11
+n01006 v3+v4: true_sites=0 flags=20 tp=0 fn=0 fp=20
+n01006 v34+g5: true_sites=0 flags=21 tp=0 fn=0 fp=21
+n01007 v3+v4: true_sites=0 flags=26 tp=0 fn=0 fp=26
+n01007 v34+g5: true_sites=0 flags=26 tp=0 fn=0 fp=26
+n01008 v3+v4: true_sites=0 flags=13 tp=0 fn=0 fp=13
+n01008 v34+g5: true_sites=0 flags=13 tp=0 fn=0 fp=13
+n01009 v3+v4: true_sites=0 flags=23 tp=0 fn=0 fp=23
+n01009 v34+g5: true_sites=0 flags=23 tp=0 fn=0 fp=23
+n01010 v3+v4: true_sites=0 flags=53 tp=0 fn=0 fp=53
+n01010 v34+g5: true_sites=0 flags=53 tp=0 fn=0 fp=53
+n01011 v3+v4: true_sites=3 flags=25 tp=3 fn=0 fp=22
+n01011 v34+g5: true_sites=3 flags=25 tp=3 fn=0 fp=22
+v3+v4: recall(true damage components flagged)=1.000 precision=0.033 (TP=10 FN=0 FP=296)
+v34+g5: recall(true damage components flagged)=1.000 precision=0.036 (TP=11 FN=0 FP=297)

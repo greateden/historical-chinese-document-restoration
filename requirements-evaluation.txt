@@ -1,0 +1,3 @@
+-r requirements.txt
+# Only the historical synthetic generator uses Pillow and a local CJK font.
+pillow==13.0.0
